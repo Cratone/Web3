@@ -1,0 +1,2 @@
+storeDir: .cache/pnpm
+ignoreScripts: true

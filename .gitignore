@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+
+# HW2: local tools and dependencies
+/HW2/.tools/
+/HW2/node_modules/
+/HW2/.cache/
+
+# HW2: Foundry build output, cache and broadcast artifacts
+/HW2/out/
+/HW2/cache/
+/HW2/broadcast/

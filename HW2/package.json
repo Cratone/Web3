@@ -1,0 +1,14 @@
+{
+  "name": "hw2-trip-fund",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solidity TripFund homework with Foundry tests and a transparent proxy upgrade",
+  "packageManager": "pnpm@11.25.0",
+  "scripts": {
+    "validate:upgrade": "bash scripts/validate-upgrade.sh"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "5.4.0",
+    "@openzeppelin/upgrades-core": "1.44.2"
+  }
+}
